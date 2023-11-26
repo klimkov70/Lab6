@@ -20,5 +20,6 @@
 3. Результаты действий будут выведены на экран.
 
 ## Скриншоты тестов
-![alt text](https://github.com/klimkov70/Lab6/blob/main/Результат.png)
+![alt text](https://github.com/klimkov70/Lab6/blob/main/Результат%201.png)
+![alt text](https://github.com/klimkov70/Lab6/blob/main/Результат%202.png)
 
